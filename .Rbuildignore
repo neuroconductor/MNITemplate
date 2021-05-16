@@ -4,3 +4,8 @@
 \.travis\.yml
 
 CITATION.bib
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
